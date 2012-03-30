@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlickrUploader", "FlickrUploader\FlickrUploader.vcxproj", "{0EC284A7-7AFB-4D16-9D7E-912FBB855C66}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlckrUpldrExample", "FlckrUpldrExample\FlckrUpldrExample.vcxproj", "{7B2BCE9F-BC12-4425-AA28-CDEA2DCBB8DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EC284A7-7AFB-4D16-9D7E-912FBB855C66}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0EC284A7-7AFB-4D16-9D7E-912FBB855C66}.Debug|Win32.Build.0 = Debug|Win32
+		{0EC284A7-7AFB-4D16-9D7E-912FBB855C66}.Release|Win32.ActiveCfg = Release|Win32
+		{0EC284A7-7AFB-4D16-9D7E-912FBB855C66}.Release|Win32.Build.0 = Release|Win32
+		{7B2BCE9F-BC12-4425-AA28-CDEA2DCBB8DD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7B2BCE9F-BC12-4425-AA28-CDEA2DCBB8DD}.Debug|Win32.Build.0 = Debug|Win32
+		{7B2BCE9F-BC12-4425-AA28-CDEA2DCBB8DD}.Release|Win32.ActiveCfg = Release|Win32
+		{7B2BCE9F-BC12-4425-AA28-CDEA2DCBB8DD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
